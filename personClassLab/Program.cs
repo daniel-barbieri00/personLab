@@ -71,6 +71,7 @@ namespace personClassLab
 
             ianB.DisplayFavouriteColor();
             ianB.ChangeFavColor();
+            ianB.PersonInfoSentence();
 
             maryB.AgeInTenYears();
 
