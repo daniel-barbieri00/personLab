@@ -1,0 +1,8 @@
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\bin\Debug\personClassLab.exe.config
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\bin\Debug\personClassLab.exe
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\bin\Debug\personClassLab.pdb
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\obj\Debug\personClassLab.csproj.AssemblyReference.cache
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\obj\Debug\personClassLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\obj\Debug\personClassLab.csproj.CoreCompileInputs.cache
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\obj\Debug\personClassLab.exe
+C:\Users\danba\OneDrive\Documents\Homework\OOP 2\personClassLab\personClassLab\obj\Debug\personClassLab.pdb
